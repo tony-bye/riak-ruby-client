@@ -1,5 +1,7 @@
 # Riak Ruby Client Release Notes
 
+## [`2.7.0` Release](https://github.com/basho/riak-ruby-client/issues?q=milestone%3Ariak-ruby-client-2.7.0)
+
 ## [`2.6.0` Release - 2016-12-14](https://github.com/basho/riak-ruby-client/issues?q=milestone%3Ariak-ruby-client-2.6.0)
   * Riak TS 1.5 support
 
